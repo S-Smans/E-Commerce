@@ -1,0 +1,15 @@
+.product {
+    text-align: center;
+    width: 20em;
+    height: 26em;
+}
+
+.price {
+    text-align: end;
+    padding-right: 3em;
+}
+
+img {
+    width: 220px;
+    height: 255px;
+}
