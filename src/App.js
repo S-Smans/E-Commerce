@@ -1,4 +1,4 @@
-import Product from './components/Product';
+import ProductList from './components/Products/ProductList';
 import './App.css';
 
 function App() {
@@ -25,7 +25,7 @@ function App() {
 
   return (
     <div className="App">
-      <Product products={products}/>
+      <ProductList products={products}/>
     </div>
   );
   // TODO
